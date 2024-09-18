@@ -10,3 +10,8 @@
 Note: Saya menggunakan data simulasi untuk pengembalian dalam 10 hari dan terkena sanksi, seperti ini codenya bisa cek di file `src/library/library.service.ts` pada line 147 dan 162
 
 ![Contoh SC](https://github.com/destroylord/test-api-library/blob/main/img/code-simulation-set-10days-return%20books.png)
+
+## Algoritma
+
+Untuk Algoritma saya menggunakan PHP dengan hasil seperti gambar dibawah ini:
+![Result]()
