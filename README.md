@@ -14,4 +14,8 @@ Note: Saya menggunakan data simulasi untuk pengembalian dalam 10 hari dan terken
 ## Algoritma
 
 Untuk Algoritma saya menggunakan PHP dengan hasil seperti gambar dibawah ini:
-![Result]()
+![Result](https://github.com/destroylord/test-api-library/blob/main/img/algoritma-test.png)
+
+Anda bisa membuka contoh source code pada folder php-algoritma
+
+Terima kasih
